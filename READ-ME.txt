@@ -1,0 +1,9 @@
+  =>  Template Name    : newsweb
+
+  =>  Template Link    : https://amarabhilash.com/free-bootstrap-magazine-template
+
+  =>  Template License : https://amarabhilash.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://amarabhilash.com
